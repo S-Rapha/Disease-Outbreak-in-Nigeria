@@ -15,6 +15,9 @@
 
 This project focuses on identifying trends in disease outbreaks in Nigeria, with a specific emphasis on emerging and re-emerging diseases such as COVID-19, Mpox, and cholera. The analysis aims to uncover patterns, track outbreak dynamics, and provide insights to support public health strategies. By leveraging data visualization and exploratory techniques, this project seeks to enhance understanding of these diseases' spread, prevalence, and impact over time.
 
+![outbreak](https://github.com/user-attachments/assets/3081fa92-7ec3-4e66-90fa-e7c044c35423)
+
+
 ### Data Source
 
 NCDC (Ngeria centre for disease control): the primary data was gotten from NCDC in the form of PDF.
